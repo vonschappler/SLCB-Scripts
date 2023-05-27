@@ -1,3 +1,3 @@
 [submodule "SLCB-Keep-Alive"]
-	path = "D:/Apps/Streamlabs Chatbot/Services/Scripts/SLCB_KeepChatAlive"
+	path = SLCB-Keep-Alive
 	url = https://github.com/vonschappler/SLCB-Keep-Alive
