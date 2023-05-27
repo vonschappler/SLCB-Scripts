@@ -1,0 +1,3 @@
+[submodule "SLCB-Keep-Alive"]
+	path = SLCB Keep Chat Alive
+	url = https://github.com/vonschappler/SLCB-Keep-Alive
