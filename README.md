@@ -4,7 +4,9 @@
 
 In this repository, it's possible to find all the Python Scripts I have made for **Streamlabs Chatbot**.
 
-Some of those scripts were made by request, others created (initally) for personal use.
+Some of those scripts were made by request while others were created (initally) for personal use. I decided to share those scripts to show off my work.
+
+Note that commisioned/paid scripts are not listed here, so if you have interest in a particular script, feel free to [contact me](mailto:vonschappler_dev@outlook.com)! Be asured that your script will not be added to this repository!
 
 Feel free to make use of those if you want.
 
