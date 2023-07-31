@@ -1,3 +1,3 @@
-[submodule "SLCB-Keep-Alive"]
-	path = SLCB-Keep-Alive
-	url = https://github.com/vonschappler/SLCB-Keep-Alive
+[submodule "SLCB-SendSounds"]
+	path = SLCB-SendSounds
+	url = https://github.com/vonschappler/SLCB-SendSounds.git
