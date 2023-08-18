@@ -1,3 +1,4 @@
 [submodule "SLCB-SendSounds"]
 	path = SLCB-SendSounds
 	url = https://github.com/vonschappler/SLCB-SendSounds.git
+	branch = main
