@@ -24,6 +24,6 @@ The scripts listed here are sorted alphabetically and their links refer to the l
 </summary>
 
 - **Description:** This script was made by request, with a simple purpose of helping the user in separating the sound effects from song requests played by **Streamlabs Chatbot** for use on VODs created by Twitch
-- **Last version:** b1.1.0
-- **Download link:** [[SLCB] SendSounds](https://github.com/vonschappler/SLCB-SendSounds/releases/tag/beta-1.1.0)
+- **Last version:** b2.0.1
+- **Download link:** [[SLCB] SendSounds](https://github.com/vonschappler/SLCB-SendSounds/releases/tag/beta-2.0.1)
 </details>
