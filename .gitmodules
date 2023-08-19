@@ -1,4 +1,6 @@
 [submodule "SLCB-SendSounds"]
 	path = SLCB-SendSounds
 	url = https://github.com/vonschappler/SLCB-SendSounds.git
-	branch = main
+[submodule "SLCB-ShoutOutClip"]
+	path = SLCB-ShoutOutClip
+	url = https://github.com/vonschappler/SLCB-ShoutOutClip.git

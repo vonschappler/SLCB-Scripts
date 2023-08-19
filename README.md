@@ -27,3 +27,15 @@ The scripts listed here are sorted alphabetically and their links refer to the l
 - **Last version:** b2.0.1
 - **Download link:** [[SLCB] SendSounds](https://github.com/vonschappler/SLCB-SendSounds/releases/tag/beta-2.0.1)
 </details>
+
+<details>
+
+<summary>
+
+### SLCB-ShoutOutClip
+</summary>
+
+- **Description:** This script was created to enabling making shoutouts of streamers while displaying a random clip of their streams.
+- **Last version:** b1.0.0
+- **Download link:** [[SLCB] ShoutOutClip](https://github.com/vonschappler/SLCB-ShoutOutClip/releases/tag/beta-1.0.0)
+</details>
