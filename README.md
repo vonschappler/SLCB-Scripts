@@ -21,6 +21,7 @@ The scripts listed here are sorted alphabetically and their links refer to the l
 <summary>
 
 ### SLCB-SendSounds
+
 </summary>
 
 - **Description:** This script was made by request, with a simple purpose of helping the user in separating the sound effects from song requests played by **Streamlabs Chatbot** for use on VODs created by Twitch
@@ -33,9 +34,10 @@ The scripts listed here are sorted alphabetically and their links refer to the l
 <summary>
 
 ### SLCB-ShoutOutClip
+
 </summary>
 
 - **Description:** This script was created to enabling making shoutouts of streamers while displaying a random clip of their streams.
-- **Last version:** b1.0.0
-- **Download link:** [[SLCB] ShoutOutClip](https://github.com/vonschappler/SLCB-ShoutOutClip/releases/tag/beta-1.0.0)
+- **Last version:** v1.0.0
+- **Download link:** [[SLCB] ShoutOutClip](https://github.com/vonschappler/SLCB-ShoutOutClip/releases/tag/v-1.0.0)
 </details>
